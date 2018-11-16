@@ -4,7 +4,7 @@
 
 using namespace std;
 
-# define NUMTHRDS 2
+# define NUMTHRDS 16
 # define N 10240000
 double sum;
 double a[N], b[N];
