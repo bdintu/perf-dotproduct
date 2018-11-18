@@ -4,8 +4,8 @@
 
 using namespace std;
 
-# define NUMTHRDS 16
-# define N 10240000
+# define NUMTHRDS 2
+# define N 128000000
 double sum;
 double a[N], b[N];
 int status;
